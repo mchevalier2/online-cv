@@ -56,18 +56,13 @@ education:
     - degree: PhD in Quantitative Palaeoclimatology
       university: University of Montpellier, France
       time: 2012 - 2015
-      details: |
-        Dissertation title: Quantified Reconstructions of Late Quaternary
-        Southern African Climate Change. Supervisors: Dr. Brian M. Chase.
     - degree: Engineer Degree in Bioinformatics and Modelling
-      university: University of Montpellier, France
+      university: University of Lyon, France
       time: 2006 - 2011
       details:
     - degree: Engineer Degree in Bioinformatics and Modelling
       university: University of Lyon France
       time: 2006 - 2011
-      details: |
-        Thesis title: Modélisation de la niche écologique du genre Abies: Description et analyse de sensibilité Supervisor: Dr. Rachid Cheddadi
 experiences:
     - role: Lead Developer
       time: 2015 - Present
