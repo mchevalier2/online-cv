@@ -50,30 +50,21 @@ career-profile:
       I am a palaeoclimatologist focused on the development and application of innovative statistical techniques based on the estimation and propagation of proxy natural uncertainties to reconstruct climate from extensive networks of fossil data. I am particularly interested in studying the spatial imprint of climate change in tropical regions on the centennial to orbital time scales.
        - Using proxy uncertainties to enhance fossil records:  I believe that the natural uncertainties that pertain to all proxy data contain critical information that should be used to improve the representativity of each palaeoclimatic records in space and time.
        - Integrating large compilations of pollen records: I am convinced that combining independent records together in dedicated frameworks can improve the signal-over-noise ratio of individual climate records. There is strength in numbers.
-       - Understanding climate drivers from tropical regions:  I use a large array of state-of-the-art combined data-model assimilation approaches to shed light on the dynamical response of broad-scale climate drivers to past and future climate change.
+       - Understanding climate drivers from tropical regions: I use a large array of state-of-the-art combined data-model assimilation approaches to shed light on the dynamical response of broad-scale climate drivers to past and future climate change.
 education:
     - degree: PhD in Quantitative Palaeoclimatology
       university: University of Montpellier, France
       time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Dissertation title: Quantified Reconstructions of Late Quaternary Southern African Climate Change. Supervisors: Dr. Brian M. Chase
+    - degree: Engineer Degree in Bioinformatics and Modelling
+      university: University of Lyon, France
+      time: 2006 - 2011
+    - degree: MSc in Ecology, Evolution and Biometry
+      university: University of Lyon, France
+      time: 2010 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Thesis title: Modélisation de la niche écologique du genre Abies: Description et analyse de sensibilité Supervisor: Dr. Rachid Cheddadi
 experiences:
     - role: Lead Developer
       time: 2015 - Present
