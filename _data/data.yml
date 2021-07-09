@@ -134,10 +134,11 @@ publications:
       Publications with a (*) are available in open access.
     papers:
       - title: An uncertainty-focused database approach to extract spatiotemporal trends from qualitative and discontinuous lake-status histories
-        link: doi.org/10.1016/j.quascirev.2021.106870
+        link: www.doi.org/10.1016/j.quascirev.2021.106870
         authors: De Cort, G., Chevalier, M., Burrough, S., Chen, C.Y. and Harrison, S.P.
         conference: Quaternary Science Reviews, 258, 106870, 2021.
-        
+        doi: 10.1016/j.quascirev.2021.106870
+
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
