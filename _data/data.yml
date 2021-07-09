@@ -57,24 +57,12 @@ education:
       university: University of Montpellier, France
       time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Dissertation title: Quantified Reconstructions of Late Quaternary
+        Southern African Climate Change. Supervisors: Dr. Brian M. Chase.
+    - degree: Engineer Degree in Bioinformatics and Modelling
+      university: University of Lyon, France
+      time: 2006 - 2011
+      details: 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
