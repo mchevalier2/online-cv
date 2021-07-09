@@ -46,28 +46,35 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a palaeoclimatologist focused on the development and application of
+      innovative statistical techniques based on the estimation and propagation
+      of proxy natural uncertainties to reconstruct climate from extensive
+      networks of fossil data. I am particularly interested in studying the
+      spatial imprint of climate change in tropical regions on the centennial
+      to orbital time scales.
 education:
-    - degree: PhD in Quantitative Palaeoclimatology
-      university: University of Montpellier, France
-      time: 2012 - 2015
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Dissertation title: Quantified Reconstructions of Late Quaternary
-        Southern African Climate Change.  Supervisors: Dr. Brian M. Chase
-    - degree: Engineer Degree in Bioinformatics and Modelling
-      university: University of Lyon, France
-      time: 2006 - 2011
-    - degree: MSc in Ecology, Evolution and Biometry
-      university: University of Lyon, France
-      time: 2010 - 2011
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Thesis title: Modélisation de la niche écologique du genre Abies:
-        Description et analyse de sensibilité. Supervisor: Dr. Rachid Cheddadi
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
