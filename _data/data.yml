@@ -46,12 +46,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a palaeoclimatologist focused on the development and application of
-      innovative statistical techniques based on the estimation and propagation
-      of proxy natural uncertainties to reconstruct climate from extensive
-      networks of fossil data. I am particularly interested in studying the
-      spatial imprint of climate change in tropical regions on the centennial
-      to orbital time scales.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     - degree: PhD in Quantitative Palaeoclimatology
       university: University of Montpellier, France
