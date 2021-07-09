@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Manuel Chevalier
-    tagline: Palaeoclimatologist Statistician
+    tagline: Palaeoclimatologist - Statistician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,10 +46,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a palaeoclimatologist focused on the development and application of innovative statistical techniques based on the estimation and propagation of proxy natural uncertainties to reconstruct climate from extensive networks of fossil data. I am particularly interested in studying the spatial imprint of climate change in tropical regions on the centennial to orbital time scales.
-      Using proxy uncertainties to enhance fossil records:  I believe that the natural uncertainties that pertain to all proxy data contain critical information that should be used to improve the representativity of each palaeoclimatic records in space and time.
-      Integrating large compilations of pollen records: I am convinced that combining independent records together in dedicated frameworks can improve the signal-over-noise ratio of individual climate records. There is strength in numbers.
-      Understanding climate drivers from tropical regions: I use a large array of state-of-the-art combined data-model assimilation approaches to shed light on the dynamical response of broad-scale climate drivers to past and future climate change.
+      I am a palaeoclimatologist focused on the development and application of
+      innovative statistical techniques based on the estimation and propagation
+      of proxy natural uncertainties to reconstruct climate from extensive
+      networks of fossil data. I am particularly interested in studying the
+      spatial imprint of climate change in tropical regions on the centennial
+      to orbital time scales.
 education:
     - degree: PhD in Quantitative Palaeoclimatology
       university: University of Montpellier, France
