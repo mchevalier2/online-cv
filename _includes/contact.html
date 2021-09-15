@@ -25,6 +25,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.gscholar %}
+    <li class="gscholar"><i class="fas fa-graduation-cap"></i>
+      <a href="https://scholar.google.com/citations?user={{ sidebar.gscholar }}" target="_blank">{Google Scholar}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
@@ -76,12 +82,6 @@
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.gscholar %}
-    <li class="gscholar"><i class="fas fa-graduation-cap"></i>
-      <a href="https://scholar.google.com/citations?user={{ sidebar.gscholar }}" target="_blank">{"Google Scholar"}</a>
     </li>
     {% endif %}
 
