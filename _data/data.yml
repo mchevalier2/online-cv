@@ -129,30 +129,34 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Selected publications
     intro: |
-      Publications with a (*) are available in open access.
+      The complete list of publications are available from (here)[https://scholar.google.fr/citations?user=LwFlIRkAAAAJ&hl=fr]. If you cannot access them, please contact me.
     papers:
-      - title: An uncertainty-focused database approach to extract spatiotemporal trends from qualitative and discontinuous lake-status histories
-        link: www.doi.org/10.1016/j.quascirev.2021.106870
-        authors: De Cort, G., Chevalier, M., Burrough, S., Chen, C.Y. and Harrison, S.P.
-        conference: Quaternary Science Reviews, 258, 106870, 2021.
-        doi: 10.1016/j.quascirev.2021.106870
+      - title: A review of statistical methods to quantify past climates from fossil pollen data.
+        link: www.doi.org/10.1016/j.earscirev.2020.103384
+        authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
+        conference: Earth Science Reviews, 210:103384, 2020.
 
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
+        link: www.doi.org/10.1130/G47841.1
+        authors: Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C.
+        conference: Geology, 49, 71-75, 2021.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Unprecedented possibilities to quantify past climate from fossil assemblages at a global scale.
+        link: www.doi.org/10.1016/j.gloplacha.2019.01.016
+        authors: Chevalier, M.
+        conference: Global and Planetary Change 175, 27–35, 2019.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Southeast African records reveal a coherent shift from high- to low-latitude forcing mechanisms along the east African margin across last glacial-interglacial transition.
+        link: www.doi.org/10.1016/j.quascirev.2015.07.009
+        authors: Chevalier, M. and Chase, B.M.
+        conference: Quaternary Science Reviews, 125, 117–130, 2015.
+
+      - title: CREST (Climate REconstruction SofTware): a probability density function (PDF)-based quantitative climate reconstruction method.
+        link: www.doi.org/10.5194/cp-10-2081-2014
+        authors: Chevalier, M., Cheddadi, R. and Chase, B.M.
+        conference: Climate of the Past, 10(6), 2081–2098, 2014.
 
 skills:
     title: Skills &amp; Proficiency
