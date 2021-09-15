@@ -116,9 +116,8 @@ experiences:
           - Synthesis and integration with climate models
 
 projects:
-    title: Projects
+    title: Ongoing Projects
     intro: >
-      List of projects that I am currently actively working on.
     assignments:
       - title: PALMOD
         link: "http://www.palmod.de"
@@ -138,7 +137,7 @@ projects:
 
 activities:
     title: Community-based Activities
-    intro: 
+    intro:
     assignments:
       - title: INQUA PALCOM
         link: "https://www.inqua.org/commissions/palcom"
