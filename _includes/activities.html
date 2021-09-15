@@ -19,7 +19,7 @@
   {% for activity in activities.assignments %}
     <div class="item">
 
-      <span class="activity-title">
+      <span class="project-title">
         {% if activity.link %}
         <a href="{{ activity.link }}" target="_blank">{{ activity.title }}</a>
         {% else %}
@@ -28,7 +28,7 @@
       </span>
 
       {% if activity.tagline %}
-      - <span class="activity-tagline">{{ activity.tagline }}</span>
+      - <span class="project-tagline">{{ activity.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
