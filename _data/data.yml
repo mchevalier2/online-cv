@@ -34,13 +34,13 @@ sidebar:
         level: Fluent
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Yoga
         link:
 
-      - item: Cooking
+      - item: Meditation
         link:
 
 career-profile:
@@ -52,55 +52,64 @@ career-profile:
       networks of fossil data. I am particularly interested in studying the
       spatial imprint of climate change in tropical regions on the centennial
       to orbital time scales.
+
 education:
     - degree: PhD in Quantitative Palaeoclimatology
       university: University of Montpellier, France
       time: 2012 - 2015
+    - degree: MSc in Ecology, Evolution and Biometry
+      university: University of Lyon France
+      time: 2009 - 2011
     - degree: Engineer Degree in Bioinformatics and Modelling
       university: University of Lyon, France
       time: 2006 - 2011
       details:
-    - degree: MSc in Ecology, Evolution and Biometry
-      university: University of Lyon France
-      time: 2009 - 2011
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Postdoctoral Researcher
+      time: 2020 - Present
+      company: Department of Meteorology, University of Bonn, Germany.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        A member of the German consortium PALMOD, my role is to develop Bayesian
+        statistical models 
+          - Bayesian statistics
+          - Data-model comparison
+          - Data-model integration
+
+    - role: Postdoctoral Researcher
+      time: 2017 - 2020
+      company: Institut des dynamiques de la surface terrestre (IDYST), University of Lausanne, Switzerland.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        During this postdoc, I worked on a project focused on reconstructing
+        Holocene climate across the Northern Hemipshere extratropics (Europe,
+        North America, Russia) using extensive collections of fossil pollen data.
+          - Data compilation and curation
+          - Methodological developments
+          - Databases
+          - 'Big' Data Analysis
+
+    - role: Postdoctoral Researcher
+      time: 2016
+      company: Institut des Sciences de l'Evolution de Montpellier (ISEM), University of Montpellier, France.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During this postdoc, I developed a relational database of climate records
+        from Africa and implemented an R package to query and extract the data
+        more easily.
+          - Databases
+          - Software development
+
+    - role: PhD Student
+      time: 2012 - 2015
+      company: Institut des Sciences de l'Evolution de Montpellier (ISEM), University of Montpellier, France.
+      details: |
+        During my PhD, I focused on developing new tools to reconstruct climate
+        from pollen data and to employ them on southern African fossil records.
+        I also created a point-and-click graphical interface to employ my novel
+        statistical tools
+          - Methodological & Software development
+          - Data Analysis
+          - Synthesis and integration with climate models
+
 projects:
     title: Projects
     intro: >
@@ -112,7 +121,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: CREST & crestr
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -133,28 +142,28 @@ publications:
     intro: |
       The complete list of publications are available from (here)[https://scholar.google.fr/citations?user=LwFlIRkAAAAJ&hl=fr]. If you cannot access them, please contact me.
     papers:
-      - title: A review of statistical methods to quantify past climates from fossil pollen data.
-        link: www.doi.org/10.1016/j.earscirev.2020.103384
-        authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
-        conference: Earth Science Reviews, 210:103384, 2020.
-
       - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
-        link: www.doi.org/10.1130/G47841.1
+        link: http://www.doi.org/10.1130/G47841.1
         authors: Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C.
         conference: Geology, 49, 71-75, 2021.
 
+      - title: A review of statistical methods to quantify past climates from fossil pollen data.
+        link: http://www.doi.org/10.1016/j.earscirev.2020.103384
+        authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
+        conference: Earth Science Reviews, 210:103384, 2020.
+
       - title: Unprecedented possibilities to quantify past climate from fossil assemblages at a global scale.
-        link: www.doi.org/10.1016/j.gloplacha.2019.01.016
+        link: http://www.doi.org/10.1016/j.gloplacha.2019.01.016
         authors: Chevalier, M.
         conference: Global and Planetary Change 175, 27–35, 2019.
 
       - title: Southeast African records reveal a coherent shift from high- to low-latitude forcing mechanisms along the east African margin across last glacial-interglacial transition.
-        link: www.doi.org/10.1016/j.quascirev.2015.07.009
+        link: http://www.doi.org/10.1016/j.quascirev.2015.07.009
         authors: Chevalier, M. and Chase, B.M.
         conference: Quaternary Science Reviews, 125, 117–130, 2015.
 
       - title: CREST (Climate REconstruction SofTware): a probability density function (PDF)-based quantitative climate reconstruction method.
-        link: www.doi.org/10.5194/cp-10-2081-2014
+        link: http://www.doi.org/10.5194/cp-10-2081-2014
         authors: Chevalier, M., Cheddadi, R. and Chase, B.M.
         conference: Climate of the Past, 10(6), 2081–2098, 2014.
 
@@ -162,23 +171,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Databases (PostgreSQL)
+        level: 80%
+
+      - name: Stats
+        level: 80%
+
+      - name: Analysis of palaeodatasets
+        level: 90%
+
+      - name: Analysis of climate simulations
+        level: 50%
+
+      - name: Figure design
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
