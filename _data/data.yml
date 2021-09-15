@@ -185,7 +185,7 @@ skills:
       - name: Stats
         level: 80%
 
-      - name: Analysis of palaeodatasets
+      - name: Analysis of palaeo-datasets  
         level: 90%
 
       - name: Analysis of climate simulations
