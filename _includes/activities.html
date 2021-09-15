@@ -1,0 +1,38 @@
+{% assign activities = site.data.data.activities %}
+{% if activities %}
+<section class="section activities-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ activities.title }}
+  </h2>
+
+  {% if activities.intro %}
+  <div class="intro">
+      <p>{{ activities.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for activity in activities.assignments %}
+    <div class="item">
+
+      <span class="activity-title">
+        {% if activity.link %}
+        <a href="{{ activity.link }}" target="_blank">{{ activity.title }}</a>
+        {% else %}
+        {{ activity.title }}
+        {% endif %}
+      </span>
+
+      {% if activity.tagline %}
+      - <span class="activity-tagline">{{ activity.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

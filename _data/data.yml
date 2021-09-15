@@ -118,29 +118,36 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of projects that I am currently actively working on.
     assignments:
       - title: PALMOD
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "http://www.palmod.de"
+        tagline: "The PalMod project aims for a better understanding of how slow feedbacks in the Earth system operate by integrating state-of-the-art climate models and data compilations to produce transient simulations of the last glacial cycle (from 130,000 years ago into the future)."
 
-      - title: CREST &amp; crestr
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: crestr
+        link: "https://mchevalier2.github.io/crestr/"
+        tagline: "A probablistic climate reconstruction method and associated R package."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Democratising CREST
+        link: "https://mchevalier2.github.io/crestr/"
+        tagline: "Employing CREST with iconic records from different continents to showcase its potential."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: EVISCO
+        link: "https://www.snf.ch/en/MjE5LYXQxNb7lM3r/news/news-201216-spark-28-more-projects-funded"
+        tagline: "A SNF SPARK grant to study how fossil proxy spatial uncertainties can be used to create information between records."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+activities:
+    title: Community-based Activities
+    intro: >
+      List of projects that I am currently actively working on.
+    assignments:
+      - title: INQUA PALCOM
+        link: "https://www.inqua.org/commissions/palcom"
+        tagline: "The remit of the INQUA Palaeoclimate Commission (PALCOM) is to optimise the use of palaeo-data for detailed climatic reconstructions. The overall objective is to enhance understanding of Quaternary climatic perturbations, transitions and abrupt events."
+
+      - title: AFQUA
+        link: "https://afquacongress.wixsite.com/afqua2018"
+        tagline: "The African Quaternary Association (AFQUA) brings developed and developing world researchers together to discuss progress in studies of the Quaternary period (the last 2.6 million years) in Africa, bridging regional divides, and fostering communication and collaboration at both regional and continental scales. "
 
 publications:
     title: Selected publications
