@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Manuel Chevalier
-    tagline: - Palaeoclimatologist - Statistician - Modeller -
+    tagline: Palaeoclimatologist - Statistician - Modeller
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -143,7 +143,7 @@ projects:
 publications:
     title: Selected publications
     intro: |
-      The complete list of publications are available from (here)[https://scholar.google.fr/citations?user=LwFlIRkAAAAJ]. If you cannot access them, please contact me.
+      The complete list of publications are available from google Scholar (see link on the top right). If you do not have access to them, please contact me.
     papers:
       - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
         link: http://www.doi.org/10.1130/G47841.1
