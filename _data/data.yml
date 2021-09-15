@@ -138,8 +138,7 @@ projects:
 
 activities:
     title: Community-based Activities
-    intro: >
-      List of projects that I am currently actively working on.
+    intro: 
     assignments:
       - title: INQUA PALCOM
         link: "https://www.inqua.org/commissions/palcom"
