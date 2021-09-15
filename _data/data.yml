@@ -8,7 +8,9 @@ sidebar:
 
     # Profile information
     name: Manuel Chevalier
-    tagline: Palaeoclimatologist - Statistician - Modeller
+    tagline1: Palaeoclimatologist
+    tagline2: Statistician
+    tagline3: Modeller
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
