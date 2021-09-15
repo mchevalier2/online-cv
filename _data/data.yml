@@ -71,10 +71,12 @@ experiences:
       company: Department of Meteorology, University of Bonn, Germany.
       details: |
         A member of the German consortium PALMOD, my role is to develop Bayesian
-        statistical models 
+        statistical models to calculate the Bayes factor of temperature/precipitation
+        reconstructions. Once develovelped, use of the tools to analyse the
+        PALMOD transient climate simulations.
           - Bayesian statistics
-          - Data-model comparison
-          - Data-model integration
+          - Data-model comparison and/or integration
+          - Software developments
 
     - role: Postdoctoral Researcher
       time: 2017 - 2020
@@ -106,7 +108,7 @@ experiences:
         from pollen data and to employ them on southern African fossil records.
         I also created a point-and-click graphical interface to employ my novel
         statistical tools
-          - Methodological & Software development
+          - Methodological &amp; Software development
           - Data Analysis
           - Synthesis and integration with climate models
 
@@ -117,11 +119,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: PALMOD
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: CREST & crestr
+      - title: CREST &amp; crestr
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -140,7 +142,7 @@ projects:
 publications:
     title: Selected publications
     intro: |
-      The complete list of publications are available from (here)[https://scholar.google.fr/citations?user=LwFlIRkAAAAJ&hl=fr]. If you cannot access them, please contact me.
+      The complete list of publications are available from (here)[https://scholar.google.fr/citations?user=LwFlIRkAAAAJ]. If you cannot access them, please contact me.
     papers:
       - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
         link: http://www.doi.org/10.1130/G47841.1
