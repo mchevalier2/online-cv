@@ -55,6 +55,19 @@ career-profile:
       networks of fossil data. I am particularly interested in studying the
       spatial imprint of climate change in tropical regions on the centennial
       to orbital time scales.
+        - (i) Using proxy uncertainties to enhance fossil records.  I believe
+        that the natural uncertainties that pertain to all proxy data contain
+        critical information that should be used to improve the representativity
+        of each palaeoclimatic records in space and time.
+        - (ii) Integrating large compilations of fossil records.  I am convinced
+        that combining independent records together in dedicated frameworks can
+        improve the signal-over-noise ratio of individual climate records. There
+        is strength in numbers.
+        - (iii) Understanding climate drivers from tropical regions. I use a 
+        large array of state-of-the-art combined data-model assimilation
+        approaches to shed light on the dynamical response of broad-scale
+        climate drivers to past and future climate change.
+
 
 education:
     - degree: PhD in Quantitative Palaeoclimatology
@@ -139,18 +152,18 @@ activities:
     title: Community-based Activities
     intro: >
     assignments:
-      - title: INQUA PALCOM
+      - title: Secretary of INQUA PALCOM
         link: "https://www.inqua.org/commissions/palcom"
         tagline: "The remit of the INQUA Palaeoclimate Commission (PALCOM) is to optimise the use of palaeo-data for detailed climatic reconstructions. The overall objective is to enhance understanding of Quaternary climatic perturbations, transitions and abrupt events."
 
-      - title: AFQUA
+      - title: Secretary of AFQUA
         link: "https://afquacongress.wixsite.com/afqua2018"
         tagline: "The African Quaternary Association (AFQUA) brings developed and developing world researchers together to discuss progress in studies of the Quaternary period (the last 2.6 million years) in Africa, bridging regional divides, and fostering communication and collaboration at both regional and continental scales. "
 
 publications:
     title: Selected publications
     intro: |
-      The complete list of publications are available from google Scholar (see link on the top right). If you do not have access to them, please contact me.
+      The complete list of publications are available from Google Scholar (link on the top right). If you do not have access to them, please contact me.
     papers:
       - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
         link: http://www.doi.org/10.1130/G47841.1
