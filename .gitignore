@@ -3,3 +3,4 @@ _site/
 .jekyll-metadata
 _data/data copy.yml
 _data/data copy 2.yml
+assets/images/.DS_Store
