@@ -170,20 +170,20 @@ publications:
     intro: |
       The complete list of publications are available from Google Scholar (link on the top right). If you do not have access to them, please contact me.
     papers:
-      - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
-        link: http://www.doi.org/10.1130/G47841.1
-        authors: Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C.
-        conference: Geology, 49, 71-75, 2021.
-
       - title: A review of statistical methods to quantify past climates from fossil pollen data.
         link: http://www.doi.org/10.1016/j.earscirev.2020.103384
         authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
         conference: Earth Science Reviews, 210:103384, 2020.
 
-      - title: Unprecedented possibilities to quantify past climate from fossil assemblages at a global scale.
-        link: http://www.doi.org/10.1016/j.gloplacha.2019.01.016
+      - title: crestr: an R package to perform probabilistic climate reconstructions from palaeoecological datasets.
+        link: http://www.doi.org/10.5194/cp-18-821-2022
         authors: Chevalier, M.
-        conference: Global and Planetary Change 175, 27–35, 2019.
+        conference: Climate of the Past, 18(4), 821-844, 2022.
+
+      - title: Temperature change in subtropical southeastern Africa during the past 790,000 yr. .
+        link: http://www.doi.org/10.1130/G47841.1
+        authors: Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C.
+        conference: Geology, 49, 71-75, 2021.
 
       - title: Southeast African records reveal a coherent shift from high- to low-latitude forcing mechanisms along the east African margin across last glacial-interglacial transition.
         link: http://www.doi.org/10.1016/j.quascirev.2015.07.009
