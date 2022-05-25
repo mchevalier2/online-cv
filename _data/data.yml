@@ -175,7 +175,7 @@ publications:
         authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
         conference: Earth Science Reviews, 210:103384, 2020.
 
-      - title: crestr an R package to perform probabilistic climate reconstructions from palaeoecological datasets.
+      - title: crestr an R package to perform probabilistic climate reconstructions from palaeoecological datasets. 
         link: http://www.doi.org/10.5194/cp-18-821-2022
         authors: Chevalier, M.
         conference: Climate of the Past, 18(4), 821-844, 2022.
