@@ -168,14 +168,14 @@ activities:
 publications:
     title: Selected publications
     intro: |
-      The complete list of publications are available from Google Scholar (link on the top right). If you do not have access to them, please contact me.
+      The complete list of publications are available from my personal page (link on the top right). If you do not have access to them, please contact me.
     papers:
       - title: A review of statistical methods to quantify past climates from fossil pollen data.
         link: http://www.doi.org/10.1016/j.earscirev.2020.103384
         authors: Chevalier, M., Davis, B.A.S., Heiri, O., Seppä, H., Chase, B.M., Gajewski, K., Lacourse, T., Telford, R.J., Finsinger, W., Guiot, J., Kühl, N., Maezumi, S.Y., Tipton, J., Carter, V., Brussel, T., Phelps, L.N., Dawson, A., Zanon, Vallè, F., Nolan, C., Mauri, A., de Vernal, A., Izumi, K., Holmström, L., Marcisek, J., Goring, S., Sommer, P.S., Chaput, M. and Kuprianov, D.
         conference: Earth Science Reviews, 210:103384, 2020.
 
-      - title: crestr an R package to perform probabilistic climate reconstructions from palaeoecological datasets. 
+      - title: crestr an R package to perform probabilistic climate reconstructions from palaeoecological datasets.
         link: http://www.doi.org/10.5194/cp-18-821-2022
         authors: Chevalier, M.
         conference: Climate of the Past, 18(4), 821-844, 2022.
