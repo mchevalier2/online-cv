@@ -39,7 +39,7 @@ sidebar:
         level: Fluent
 
     interests:
-      - item: Running
+      - item: Cycling
         link:
 
       - item: Yoga
@@ -87,8 +87,17 @@ education:
       details:
 
 experiences:
+    - role: Project Leader
+      time: 2020 - 2023
+      company: Department of Meteorology, University of Bonn, Germany.
+      details: |
+        A member of the German consortium PALMOD, my role is to
+          - Coupling marine and terrestrial datasets
+          - Data-model comparison and/or integration
+          - Software developments
+
     - role: Postdoctoral Researcher
-      time: 2020 - Present
+      time: 2020 - 2023
       company: Department of Meteorology, University of Bonn, Germany.
       details: |
         A member of the German consortium PALMOD, my role is to develop Bayesian
@@ -157,7 +166,7 @@ activities:
     title: Community-based Activities
     intro: >
     assignments:
-      - title: Secretary of INQUA PALCOM
+      - title: President of INQUA PALCOM
         link: "https://www.inqua.org/commissions/palcom"
         tagline: "The remit of the INQUA Palaeoclimate Commission (PALCOM) is to optimise the use of palaeo-data for detailed climatic reconstructions. The overall objective is to enhance understanding of Quaternary climatic perturbations, transitions and abrupt events."
 
